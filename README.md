@@ -109,7 +109,7 @@
         </select>
         
         
-        <a href="#" class="download">CLICK HERE TO DOWNLOAD FILE (PLACEHOLDER LINK)</a>
+        <a href="ffc_95.doc" class="download">CLICK HERE TO DOWNLOAD FILE (PLACEHOLDER LINK)</a>
     </div>
 </body>
 </html>
