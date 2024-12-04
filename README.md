@@ -109,7 +109,7 @@
         </select>
         
         
-        <a href="#" class="(https://docs.google.com/document/d/1H9CNPODo_yEChVqlQsQRtIRERzr2ejLMACT643ANqhA/edit?usp=drive_link)">CLICK HERE TO DOWNLOAD FILE ()</a>
+        <a href="#" class="download">CLICK HERE TO DOWNLOAD FILE (PLACEHOLDER LINK)</a>
     </div>
 </body>
 </html>
